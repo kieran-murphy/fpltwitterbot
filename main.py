@@ -9,10 +9,7 @@ from auth import (
     access_token_secret
 )
 
-from fpl import (
-    laddertweet,
-    gameweeknum
-)
+from fpl import *
 
 with open('gameweek.txt') as file:
     data = json.load(file)
@@ -27,10 +24,6 @@ latestweek = l.split('\n')
 l_list[str(g)] = latestweek
 
 dic = {"latest gameweek":g, "tables":l_list}
-
-
-
-
 
 
 
@@ -50,4 +43,3 @@ else:
     with open('gameweek.txt', 'w') as json_file:
             json.dump(dic, json_file, indent=4)
     
-
