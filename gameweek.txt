@@ -1,48 +1,15 @@
 {
-    "latest gameweek": "4",
+    "latest gameweek": "1",
     "tables": {
         "1": [
-            "1. FC MURP - 3",
-            "2. Charles FC - 3",
-            "3. Holt AFC - 3",
-            "4. Buy The League FC - 3",
-            "5. Aye - 0",
-            "6. Danos FC - 0",
-            "7. Bundaberg Borings FC - 0",
-            "8. WokeSigmaGrindsetFC - 0",
-            ""
-        ],
-        "2": [
-            "1. FC MURP - 6",
-            "2. Buy The League FC - 6",
-            "3. Danos FC - 3",
-            "4. Charles FC - 3",
-            "5. Holt AFC - 3",
-            "6. Aye - 3",
-            "7. Bundaberg Borings FC - 0",
-            "8. WokeSigmaGrindsetFC - 0",
-            ""
-        ],
-        "3": [
-            "1. FC MURP - 9",
-            "2. Holt AFC - 6",
-            "3. Danos FC - 6",
-            "4. Buy The League FC - 6",
-            "5. Aye - 3",
-            "6. Charles FC - 3",
-            "7. WokeSigmaGrindsetFC - 3",
-            "8. Bundaberg Borings FC - 0",
-            ""
-        ],
-        "4": [
-            "1. FC MURP - 12",
-            "2. Holt AFC - 6",
-            "3. Danos FC - 6",
-            "4. Aye - 6\u2b07\ufe0f",
-            "5. Charles FC - 6\u2b07\ufe0f",
-            "6. Buy The League FC - 6\u2b06\ufe0f",
-            "7. WokeSigmaGrindsetFC - 6\u2b06\ufe0f",
-            "8. Bundaberg Borings FC - 0\u2b06\ufe0f",
+            "1. Junited FC - 3",
+            "2. Hit or Miss FC - 3",
+            "3. WanderingBlindFanBoy - 3",
+            "4. FC MURP - 3",
+            "5. Holt AFC - 0",
+            "6. Fab In Your Hoes FC - 0",
+            "7. CharlesFC - 0",
+            "8. Liquid Death - 0",
             ""
         ]
     }
