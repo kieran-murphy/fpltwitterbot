@@ -1,2 +1,4 @@
 auth.py
 .DS_STORE
+__pycache__
+gameweek.txt
